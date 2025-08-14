@@ -1,0 +1,5 @@
+USER-SUPPLIED VALUES:
+persistence:
+  enabled: true
+  size: 10Gi
+  storageClass: local-path
